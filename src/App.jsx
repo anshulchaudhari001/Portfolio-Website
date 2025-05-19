@@ -7,7 +7,7 @@ import Projects from "./components/Projects/projects";
 
 function App() {
   return (
-    <div className="bg-[#0c0e19] h-auto w-full overflow-hidden">
+    <div className="bg-gradient-to-r from-blue-400 to-purple-600 h-auto w-full overflow-hidden">
       <Navbar />
       <Home />
       <About />
@@ -17,5 +17,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

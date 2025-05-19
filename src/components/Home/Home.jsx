@@ -5,7 +5,7 @@ const Home = () => {
             <div className="md:w-2/4 md:pt-10 ">
                 <h1 className="text-3xl md:text-5xl font-bold mb-4">
                     Hello, I'm{" "}
-                    <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
+<span className="text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-red-600">
                         Anshul
                     </span>
                 </h1>
